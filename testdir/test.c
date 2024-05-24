@@ -1,6 +1,7 @@
- is test __code_model_32__
+#include <stdio.h>
+#include <stdlib.h>
 
-
-This is new changes
-
-new change
+int main() {
+    printf("This is my first program on vs in sync with github :) :) :)");
+    return 0;
+}
