@@ -12,6 +12,7 @@ int main() {
     pthread_t tid;
     pthread_create(&tid, NULL, &thread_fun, NULL);
     sleep(1);
+    printf("Hello from main program\n");
     pthread_join(tid, NULL);
     return 0;
 }
