@@ -3,7 +3,7 @@
 
 int main() {
     //test code
-    printf("This is my first program on vs in sync with github :) :) :)");
+    printf("Hello world!!!");
     return 0;
 }
 
