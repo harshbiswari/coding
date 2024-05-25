@@ -4,7 +4,7 @@
 
 
 int main(int argc, char* argv[]) {
-    //test comment
+    //test comment - New prints
     int fd[2];
     if(pipe(fd) == -1) {
         printf("An error is occured with opening the pipe\n");
