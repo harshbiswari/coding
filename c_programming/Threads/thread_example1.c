@@ -4,7 +4,11 @@
 #include<unistd.h>
 
 void* thread_fun(void *arg) {
-    printf("Hello from thread\n");
+    int cnt = 5; 
+    while(cnt > 0) {
+        cnt --;
+        printf("Hello from thread\n");
+    }
     return NULL;
 }
 
