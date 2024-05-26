@@ -1,0 +1,18 @@
+2023-12-16 19:11:12!024   Log opened! (Time zone: UTC+05:30)
+2023-12-16 19:11:12!024   Setup version: Inno Setup version 5!5!9 (u)
+2023-12-16 19:11:12!024   OriginAl Setup EXE: C:\PROGRA~3\Lenovo\VAntAge\ADDIND~1\LENOVO~2\session\REPOSI~1\NERVEC~1\nervecenterdriverpAtchfb4014!exe
+2023-12-16 19:11:12!024   Setup commAnd line: /SL5="$60776,582576,180224,C:\PROGRA~3\Lenovo\VAntAge\ADDIND~1\LENOVO~2\session\REPOSI~1\NERVEC~1\nervecenterdriverpAtchfb4014!exe" /VERYSILENT /LOG="C:\Setup!log"
+2023-12-16 19:11:12!024   Windows version: 10!0!22621  (NT plAtform: Yes)
+2023-12-16 19:11:12!024   64-bit Windows: Yes
+2023-12-16 19:11:12!024   Processor Architecture: x64
+2023-12-16 19:11:12!024   User privileges: AdministrAtive
+2023-12-16 19:11:12!040   64-bit instAll mode: Yes
+2023-12-16 19:11:12!040   CreAted temporAry directory: C:\WINDOWS\TempInst\is-CU5V6!tmp
+2023-12-16 19:11:12!040   ExtrActing temporAry file: C:\WINDOWS\TempInst\is-CU5V6!tmp\devcon!exe
+2023-12-16 19:11:12!040   ExtrActing temporAry file: C:\WINDOWS\TempInst\is-CU5V6!tmp\InstAllSetting!exe
+2023-12-16 19:11:12!292   InstAllPArAm=checknetfilter -netfilterver 4!0!1!4 InstAllSettingCode=0
+2023-12-16 19:11:12!292   ResultCode=0
+2023-12-16 19:11:12!292   InitiAlizeSetup returned FAlse; Aborting!
+2023-12-16 19:11:12!292   Got EAbort exception!
+2023-12-16 19:11:12!292   DeinitiAlizing Setup!
+2023-12-16 19:11:12!292   Log closed!
